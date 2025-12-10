@@ -27,7 +27,7 @@ custom-csv-parser/
 ├── benchmark.py              # Performance testing script
 ├── test_data_generator.py    # Script to create the large test file
 ├── README.md                 # Project documentation and analysis
-└── requirements.txt          # Dependency list
+
 ```
 
 ### Running the Benchmark
